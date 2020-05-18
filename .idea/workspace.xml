@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="f9b26b9f-0330-43df-be1d-bb868f1ec200" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Cucumber/Hooks.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Cucumber/Listeners/ListenerClass.class" afterPath="" />
@@ -8,6 +9,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Cucumber/Runnerclass.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Cucumber/StepDef/MyStepdefs.class" afterPath="" />
     </list>
+=======
+    <list default="true" id="f9b26b9f-0330-43df-be1d-bb868f1ec200" name="Default" comment="" />
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../RESTFul-API/target/" />
@@ -462,7 +466,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="34435000" />
+=======
+    <option name="totallyTimeSpent" value="31725000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -508,6 +516,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/Branch.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cucumber/Runnerclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/../RESTFul-API/src/test/java/Test01_GET.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
